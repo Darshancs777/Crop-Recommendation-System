@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Prediction Result</title>
+   
+    <style>
+     
+        body {
+            background: url('/static/style/prediction_back.jpg') no-repeat center center fixed;
+            background-size: cover;
+            font-family: 'Arial', sans-serif;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background: #ffffff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            padding: 2rem;
+            text-align: center;
+            max-width: 500px;
+            width: 100%;
+        }
+        h4 {
+            color: #333;
+            font-weight: normal;
+            margin: 0.5rem 0;
+        }
+        h3 {
+            color: #007bff;
+            font-size: 2rem;
+            margin-top: 1rem;
+        }
+        .highlight {
+            color: #28a745;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h4>According to your soil nutrients</h4>
+        <h4 class="highlight">You Should Grow:</h4>
+        <br>
+        <h3>{{ prediction }}</h3>
+    </div>
+</body>
+</html>
