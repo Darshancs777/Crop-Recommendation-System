@@ -12,7 +12,6 @@ Welcome to the Crop Recommendation System repository! This project is designed t
 - [Model](#model)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
