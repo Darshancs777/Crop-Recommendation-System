@@ -97,9 +97,3 @@ We welcome contributions from the community. To contribute, please follow these 
     git push origin feature-branch
     ```
 6. **Create a Pull Request**: Go to the original repository and create a pull request with a description of your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-Thank you for using the Crop Recommendation System! If you have any questions or feedback, please feel free to reach out or open an issue on GitHub.
