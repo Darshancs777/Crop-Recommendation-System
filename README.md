@@ -3,10 +3,12 @@
 Welcome to the Crop Recommendation System repository! This project is designed to assist farmers and agricultural enthusiasts in determining the most suitable crops to plant based on various environmental and soil conditions. The system leverages machine learning techniques to provide accurate crop recommendations, optimizing for yield and sustainability.
 ## Home Page:
 ![](https://github.com/Darshancs777/Crop-Recommendation-System/blob/main/upload_images/home.png)
-## Data Fields:
+## Data Fields Page:
 ![](https://github.com/Darshancs777/Crop-Recommendation-System/blob/main/upload_images/input.png)
-## Inputed Fields:
+## Inputed Fields Page:
 ![](https://github.com/Darshancs777/Crop-Recommendation-System/blob/main/upload_images/data.png)
+## Result Page:
+![](https://github.com/Darshancs777/Crop-Recommendation-System/blob/main/upload_images/result.png)
 ## Table of Contents
 
 - [Introduction](#introduction)
