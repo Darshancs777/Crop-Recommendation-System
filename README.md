@@ -5,6 +5,8 @@ Welcome to the Crop Recommendation System repository! This project is designed t
 ![](https://github.com/Darshancs777/Crop-Recommendation-System/blob/main/upload_images/home.png)
 ## Data Fields:
 ![](https://github.com/Darshancs777/Crop-Recommendation-System/blob/main/upload_images/input.png)
+## Inputed Fields:
+![](https://github.com/Darshancs777/Crop-Recommendation-System/blob/main/upload_images/data.png)
 ## Table of Contents
 
 - [Introduction](#introduction)
